@@ -1,4 +1,4 @@
-# 📞 Phone Information Tracer (Ultimate Edition)
+# 📞 Phone Information Tracer
 
 Alat investigasi nomor telepon sederhana namun kuat yang dibangun dengan Python. Alat ini mengekstrak informasi lokasi, penyedia layanan (carrier), dan zona waktu dari nomor telepon di seluruh dunia.
 
@@ -14,5 +14,6 @@ Alat investigasi nomor telepon sederhana namun kuat yang dibangun dengan Python.
 ### Linux / Termux
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/username/phone-tracer.git](https://github.com/username/phone-tracer.git)
-   cd phone-tracer
+   git clone [https://github.com/123tool/Phone-Information-Tracer.git]
+   cd Phone-Information-Tracer
+   python phone_tracer.py
